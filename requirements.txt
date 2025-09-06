@@ -1,1 +1,33 @@
+# Core Python scientific stack
+numpy
+pandas
+matplotlib
+scipy
+
+# Control systems
+control          # Python Control Systems Library
+sympy            # Symbolic math (Laplace, equations)
+
+# Machine Learning
+scikit-learn
+torch            # or tensorflow (pick one ML framework)
+torchvision      # if using PyTorch
+
+# Reinforcement Learning (optional for ML controllers)
+gym
+stable-baselines3
+
+# File handling & parsing
+openpyxl         # Excel
+PyPDF2           # PDF handling
+Pillow           # Image processing
+
+# Web scraping & automation
+requests
+beautifulsoup4
+selenium
+
+# Utilities
+tqdm             # Progress bars
+pytest           # Testing framework
 
