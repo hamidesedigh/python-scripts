@@ -93,8 +93,7 @@ def main():
     )
 
     for name, t in sorted_teams:
-        print(
-            f"{name}  wins:{t.wins} , loses:{t.loses} , draws:{t.draws}, goal difference:{t.goal_diff} , points:{t.points} ")
+        print(f"{name}  wins:{t.wins} , loses:{t.loses} , draws:{t.draws} , goal difference:{t.goal_diff} , points:{t.points} ")
 
 
 if __name__ == "__main__":
