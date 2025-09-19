@@ -27,10 +27,11 @@ This repository serves both as:
 - `metaclasses.py` 
 - `typing[oop_football_team.py](basics/oop_football_team.py)_examples.py`
 
-### 📊 data_structures/
-- `linked_list.py`
-- `binary_tree.py`
-- `graph_algorithms.py`
+### 🗄️ database/
+- `mysql_connection.py` → Connecting to MySQL from Python  
+- `mysql_crud.py` → Basic Create, Read, Update, Delete operations  
+- `sqlite_example.py` → Lightweight local database usage  
+- `sqlalchemy_example.py` → ORM for relational databases  
 
 ### 🔀 concurrency/
 - `threading_example.py`
