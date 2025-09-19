@@ -14,14 +14,18 @@ This repository serves both as:
 - `datatypes.py`
 - `loops_conditions.py` 
 - `functions.py` 
-- `oop_basics.py`
+- 
+- `oop_football_team.py`
+- `oop_school_health.py`
 
 ### ⚡ advanced/
+- `error_handeling_HDB.py`
+- 
 - `decorators.py` 
 - `generators.py` 
 - `context_managers.py` 
 - `metaclasses.py` 
-- `typing_examples.py`
+- `typing[oop_football_team.py](basics/oop_football_team.py)_examples.py`
 
 ### 📊 data_structures/
 - `linked_list.py`
@@ -70,7 +74,13 @@ This repository serves both as:
 - `test_file_handling.py`
 
 ### 🧩 sample_codes/
-- `comprehensions.py`  
+- `favorite_genre.py`  
+- `format_finalist_list.py`
+- `gcd.py`
+- `translator.py`
+- `word_indexing.py`
+- `world_cup_B.py`
+- 
 - `lambda_map_filter.py`  
 - `f_strings.py`  
 - `itertools_examples.py`  
