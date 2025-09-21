@@ -31,7 +31,7 @@ This repository serves both as:
 - `mysql_connection.py` → Connecting to MySQL from Python  
 - `mysql_crud.py` → Basic Create, Read, Update, Delete operations  
 - `sqlite_example.py` → Lightweight local database usage  
-- `sqlalchemy_example.py` → ORM for relational databases  
+ 
 
 ### 🔀 concurrency/
 - `threading_example.py`
