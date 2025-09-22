@@ -28,9 +28,9 @@ This repository serves both as:
 - `typing[oop_football_team.py](basics/oop_football_team.py)_examples.py`
 
 ### 🗄️ database/
-- `mysql_connection.py` → Connecting to MySQL from Python  
-- `mysql_crud.py` → Basic Create, Read, Update, Delete operations  
-- `sqlite_example.py` → Lightweight local database usage  
+- `mysql_connection.py`  
+- `mysql_client_sorting.py` 
+- `mysql_client_email.py`  
  
 
 ### 🔀 concurrency/
