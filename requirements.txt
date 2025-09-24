@@ -31,3 +31,5 @@ selenium
 tqdm             # Progress bars
 pytest           # Testing framework
 
+# Database
+mysql-connector-python

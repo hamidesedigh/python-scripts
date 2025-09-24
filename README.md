@@ -13,8 +13,10 @@ This repository serves both as:
 ### 🧑‍💻 basics/
 - `datatypes.py`
 - `loops_conditions.py` 
-- `functions.py` 
 - 
+- `def_euclidean.py` 
+- 
+- `if_bmi.py`
 - `oop_football_team.py`
 - `oop_school_health.py`
 
@@ -50,6 +52,7 @@ This repository serves both as:
 - `image_processing.py`
 
 ### 🌐 web_scraping/
+- `regex_example.py`
 - `requests_example.py`
 - `beautifulsoup_example.py`
 - `selenium_example.py`
