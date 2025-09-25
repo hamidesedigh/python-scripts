@@ -52,10 +52,13 @@ This repository serves both as:
 - `image_processing.py`
 
 ### 🌐 web_scraping/
-- `regex_example.py`
+- `regex_email.py`
+- 
 - `requests_example.py`
-- `beautifulsoup_example.py`
-- `selenium_example.py`
+- 
+- `beautifulsoup_javanelec.py`
+- `selenium_divar.py`
+- `web_scraping_mysql_Scrapethissite.py`
 
 ### 📈 data_science/
 - `numpy_basics.py`
