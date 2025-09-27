@@ -12,11 +12,12 @@ This repository serves both as:
 
 ### 🧑‍💻 basics/
 - `datatypes.py`
-- `loops_conditions.py` 
 - 
-- `def_euclidean.py` 
-- 
+- `loops_sample.py`
+- `PEP8_style_guide.py` 
+- `def_euclidean.py`
 - `if_bmi.py`
+- `if_for_is_prime.py`
 - `oop_football_team.py`
 - `oop_school_health.py`
 

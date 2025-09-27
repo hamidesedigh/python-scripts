@@ -9,6 +9,7 @@ Created on Wed Sep 24 20:15:32 2025
 weight = 75  # in kilograms
 height = 180 / 100  # convert height to meters
 
+# BMI formula
 bmi = weight / height**2
 
 print(f"Your BMI is: {bmi:.2f}")  # show BMI rounded to 2 decimal places
