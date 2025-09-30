@@ -20,8 +20,11 @@ This repository serves both as:
 - `if_for_is_prime.py`
 - `oop_football_team.py`
 - `oop_school_health.py`
-- `euler_project.py`
+- `euler_project_1.py`
+- `euler_project_2.py`
 - `simple_calculator.py`
+- `random_money_exchange.py`
+- `random_dice.py`
 
 ### ⚡ advanced/
 - `error_handeling_HDB.py`
