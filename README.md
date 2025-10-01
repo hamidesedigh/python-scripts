@@ -25,6 +25,7 @@ This repository serves both as:
 - `simple_calculator.py`
 - `random_money_exchange.py`
 - `random_dice.py`
+- `pin_puzzle_solver.py`
 
 ### ⚡ advanced/
 - `error_handeling_HDB.py`
@@ -47,7 +48,8 @@ This repository serves both as:
 - `asyncio_example.py`
 
 ### 📦 modulator/
-- `math_utils.py`, `string_utils.py`
+- `math_utils.py`
+- `string_utils.py`
 - `custom_package_example/`  
 
 ### 📁 file_handling/
@@ -96,8 +98,7 @@ This repository serves both as:
 - 
 - `lambda_map_filter.py`  
 - `f_strings.py`  
-- `itertools_examples.py`  
-- `regex_examples.py`  
+- `itertools_examples.py`   
 - `error_handling.py`  
 - `datetime_examples.py`  
 - `pathlib_examples.py`  

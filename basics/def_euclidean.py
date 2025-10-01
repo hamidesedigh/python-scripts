@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 24 20:23:20 2025
 
 @author: hamid
+Created on Wed Sep 24 20:23:20 2025
 """
 
 def euclidean_method(a, b):
