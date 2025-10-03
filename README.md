@@ -58,12 +58,16 @@ This repository serves both as:
 - `json_yaml.py`
 - `pdf_handling.py`
 - `image_processing.py`
+- 
+- `change_number_docx.py`
+- `sum_fa_numbers.py`
+- `sum_fa_numbers.py`
 
 ### 🌐 web_scraping/
+- `new_year_message_sms.py`
+- `random_joke_sms.py`
+- `api_bitcoin_sms.py`
 - `regex_email.py`
-- 
-- `requests_example.py`
-- 
 - `beautifulsoup_javanelec.py`
 - `selenium_divar.py`
 - `web_scraping_mysql_Scrapethissite.py`
