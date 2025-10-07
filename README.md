@@ -12,7 +12,9 @@ This repository serves both as:
 
 ### 🧑‍💻 basics/
 - `datatypes.py`
-- 
+- `string_sample.py`
+- `list_sample.py`
+- `dict_sample.py`
 - `loops_sample.py`
 - `PEP8_style_guide.py` 
 - `def_euclidean.py`
@@ -28,13 +30,13 @@ This repository serves both as:
 - `pin_puzzle_solver.py`
 
 ### ⚡ advanced/
-- `error_handeling_HDB.py`
-- 
 - `decorators.py` 
 - `generators.py` 
 - `context_managers.py` 
 - `metaclasses.py` 
 - `typing[oop_football_team.py](basics/oop_football_team.py)_examples.py`
+- 
+- `error_handeling_HDB.py`
 
 ### 🗄️ database/
 - `mysql_connection.py`  
@@ -42,12 +44,12 @@ This repository serves both as:
 - `mysql_client_email.py`  
  
 
-### 🔀 concurrency/
+### 🔀 concurrency/-
 - `threading_example.py`
 - `multiprocessing_example.py`
 - `asyncio_example.py`
 
-### 📦 modulator/
+### 📦 modulator/-
 - `math_utils.py`
 - `string_utils.py`
 - `custom_package_example/`  
@@ -76,30 +78,20 @@ This repository serves both as:
 - `numpy_basics.py`
 - `pandas_examples.py`
 - `matplotlib_plot.py`
+- 
+- `readme.md`
 
-### ⚙️ control_systems/
+### ⚙️ control_systems/-
 - `state_space_models.py`
 - `fault_detection.py`
 - `system_identification.py`
 
-### 📝 scripts/
-- `logging_example.py`
-- `cli_arguments.py`
-- `automation_example.py`
-
-### 🧪 tests/
+### 🧪 tests/-
 - `test_decorators.py`
 - `test_generators.py`
 - `test_file_handling.py`
 
 ### 🧩 sample_codes/
-- `favorite_genre.py`  
-- `format_finalist_list.py`
-- `gcd.py`
-- `translator.py`
-- `word_indexing.py`
-- `world_cup_B.py`
-- 
 - `lambda_map_filter.py`  
 - `f_strings.py`  
 - `itertools_examples.py`   
@@ -107,7 +99,14 @@ This repository serves both as:
 - `datetime_examples.py`  
 - `pathlib_examples.py`  
 - `json_handling.py`  
-- `http_requests.py`  
+- `http_requests.py` 
+- 
+- `favorite_genre.py`  
+- `format_finalist_list.py`
+- `gcd.py`
+- `translator.py`
+- `word_indexing.py`
+- `world_cup_B.py`
 
 ---
 
