@@ -15,6 +15,7 @@ This repository serves both as:
 - `string_sample.py`
 - `list_sample.py`
 - `dict_sample.py`
+- `tuple_set_boolean_sample.py`
 - `loops_sample.py`
 - `PEP8_style_guide.py` 
 - `def_euclidean.py`
@@ -55,15 +56,14 @@ This repository serves both as:
 - `custom_package_example/`  
 
 ### 📁 file_handling/
-- `text_files.py`
-- `csv_excel.py`
+- `txt_handling.py`
+- `csv_handling.py`
+- `xlsx_handling.py`
 - `json_yaml.py`
 - `pdf_handling.py`
 - `image_processing.py`
-- 
-- `change_number_docx.py`
-- `sum_fa_numbers.py`
-- `sum_fa_numbers.py`
+- `docx_handling.py`
+- `mini_prj_docx.py`
 
 ### 🌐 web_scraping/
 - `new_year_message_sms.py`

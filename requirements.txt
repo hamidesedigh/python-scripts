@@ -18,9 +18,12 @@ gym
 stable-baselines3
 
 # File handling & parsing
-openpyxl         # Excel
-PyPDF2           # PDF handling
-Pillow           # Image processing
+openpyxl          # Excel file handling (read/write .xlsx)
+python-docx       # Word document handling (.docx)
+PyPDF2            # Basic PDF reading and merging
+reportlab         # PDF creation and text rendering
+Pillow            # Image processing (load, edit, save images)
+PyYAML            # YAML file handling (read/write .yaml)
 
 # Web scraping & automation
 requests
@@ -33,3 +36,4 @@ pytest           # Testing framework
 
 # Database
 mysql-connector-python
+

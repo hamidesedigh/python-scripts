@@ -1,0 +1,4 @@
+Line 1: Hello, Python!
+Line 2: File handling is easy.
+Line 3: You can read, write, and seek.
+Line 4: Remember to close your file!
