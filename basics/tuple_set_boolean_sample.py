@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 @author: Hamideh
-@created: Wed Oct 8 6:55:00 2025
+created: Wed Oct 8 6:55:00 2025
 
 Program Description:
 -------------------------
 Demonstration of Python Tuple, Set, and Boolean Data Types
---------------------------------------------------------------
-Covers:
 ✔ Tuple → Immutable and Ordered collection.
 ✔ Set → Mutable, Unordered, No Duplicates.
 ✔ Boolean → Logical True/False with comparison and logical operators.

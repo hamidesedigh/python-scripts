@@ -1,12 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 27 15:45:13 2025
+@author: Hamideh
+created: Sat Sep 27 15:45:13 2025
 
-@author: hamid
-
-iteration_examples.py
----------------------
-Examples of iterating over strings, dictionaries, range(), and enumerate() in Python..
+Program Description:
+-------------------------
+Illustrates Python iteration techniques over different data structures:
+✔ Strings (character iteration and enumerate)
+✔ Dictionaries (key-value pairs and indexed iteration)
+✔ Ranges (basic looping)
+✔ Lists (using enumerate for index-value pairs)
 """
 
 def iterate_string(word: str) -> None:

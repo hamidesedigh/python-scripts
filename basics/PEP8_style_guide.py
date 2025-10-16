@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 27 14:15:32 2025
-
 @author: hamid
+Created on Wed Sep 27 14:15:32 2025
 
 This module demonstrates PEP 8 style guide conventions
 for parameters, variables, functions, and file definitions.

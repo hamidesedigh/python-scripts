@@ -20,7 +20,8 @@ This repository serves both as:
 - `PEP8_style_guide.py` 
 - `def_euclidean.py`
 - `if_bmi.py`
-- `if_for_is_prime.py`
+- `count_prime.py`
+- 
 - `oop_football_team.py`
 - `oop_school_health.py`
 - `euler_project_1.py`
@@ -35,9 +36,9 @@ This repository serves both as:
 - `generators.py` 
 - `context_managers.py` 
 - `metaclasses.py` 
-- `typing[oop_football_team.py](basics/oop_football_team.py)_examples.py`
 - 
-- `error_handeling_HDB.py`
+- `django_sample.md` 
+- `error_handling_HDB.py`
 
 ### 🗄️ database/
 - `mysql_connection.py`  
@@ -73,6 +74,7 @@ This repository serves both as:
 - `beautifulsoup_javanelec.py`
 - `selenium_divar.py`
 - `web_scraping_mysql_Scrapethissite.py`
+- `web_scraping_mysql_regression_Scrapethissite.py`
 
 ### 📈 data_science/
 - `numpy_basics.py`

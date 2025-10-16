@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 @author: Hamideh
-@created: Tues Oct 7 13:07:20 2025
+created: Tues Oct 7 13:07:20 2025
 
 Program Description:
 -------------------------
 Demonstration of Python Dictionary (dict) Data Type and Its Properties
---------------------------------------------------------------
-Covers:
 ✔ Dictionaries are Mutable → values can be changed after creation.
 ✔ Store data as key–value pairs → {"key": value}
 ✔ Keys must be unique and immutable (e.g., str, int, tuple).

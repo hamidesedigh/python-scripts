@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 @author: Hamideh
-@created: Mon Oct 6 15:23:20 2025
+created: Mon Oct 6 15:23:20 2025
 
 Program Description:
 -------------------------
 Demonstration of Python String Data Type and Its Properties
---------------------------------------------------------------
-Covers:
 ✔ Strings are Immutable → cannot be changed after creation.
 ✔ Support Indexing & Slicing.
 ✔ Common Methods: upper(), lower(), replace(), split(), count().

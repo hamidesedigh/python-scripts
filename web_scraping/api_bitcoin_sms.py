@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 """
+Author: hamid
+Created on Thu Jul 10 08:58:47 2025
+
 Bitcoin Price Alert with SMS Notification
 -----------------------------------------------------------
 This program checks the current Bitcoin price (in USD) using
@@ -10,8 +13,6 @@ Requirements:
 - requests library
 - Valid Kavenegar API key and phone number
 
-Author: hamid
-Created on Thu Jul 10 08:58:47 2025
 """
 
 import requests

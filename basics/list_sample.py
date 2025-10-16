@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 @author: Hamideh
-@created: Tues Oct 7 10:07:20 2025
+created: Tues Oct 7 10:07:20 2025
 
 Program Description:
 -------------------------
 Demonstration of Python List Data Type and Its Properties
---------------------------------------------------------------
-Covers:
 ✔ Lists are Mutable → can modify elements directly.
 ✔ Ordered → maintain insertion order.
 ✔ Allow Duplicates → [1, 1, 2] is valid.
