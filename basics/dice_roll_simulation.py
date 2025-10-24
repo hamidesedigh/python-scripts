@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """
+Created on Mon Jun 23 19:05:58 2025
+@Author: hamideh
+
 Dice Roll Simulation
 -----------------------------------------------------------
 This program simulates rolling a fair six-sided die multiple times
 and records the frequency of each outcome. The final distribution
 is visualized as a bar chart.
-
-Author: hamid
-Created on Mon Jun 23 19:05:58 2025
 """
 
 import matplotlib.pyplot as plt

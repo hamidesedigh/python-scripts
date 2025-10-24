@@ -1,4 +1,10 @@
-# Simple Calculator Program
+# -*- coding: utf-8 -*-
+'''
+Created on Tue Jun 17 23:38:43 2025
+@author: hamideh
+
+Simple Calculator Program
+'''
 
 def add(x: float, y: float) -> float:
     """Return the sum of x and y."""

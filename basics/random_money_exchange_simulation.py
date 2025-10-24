@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jun 17 23:38:43 2025
-
-@author: hamid
+@author: hamideh
 
 Problem 1: random money exchange
 ---------------------------------------------------------------------------------

@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """
+Created on Sat Jul 12 12:43:14 2025
+@Author: Hamideh
+
 Dad Joke SMS Sender
 -----------------------------------------------------------
 This program fetches a random dad joke from the
 icanhazdadjoke API and sends it to a given phone number
 using the Kavenegar SMS API.
-
-Author: hamid
-Created on Sat Jul 12 12:43:14 2025
 """
 
 import requests

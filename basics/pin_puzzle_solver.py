@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 """
+Created on Fri Sep 19 21:50:29 2025
+@Author: hamideh
+
 PIN Puzzle Solver
 -----------------------------------------------------------
 This program searches for all 5-digit PIN codes that satisfy
@@ -11,9 +14,6 @@ Conditions:
 3. digit4 == digit2 + 1
 4. digit2 + digit3 == 10
 5. Sum of all digits == 30
-
-Author: hamid
-Created on Fri Sep 19 21:50:29 2025
 """
 
 def pin_is_ok(d1: int, d2: int, d3: int, d4: int, d5: int) -> bool:

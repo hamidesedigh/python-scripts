@@ -12,6 +12,9 @@ sympy            # Symbolic math (Laplace, equations)
 scikit-learn
 torch            # or tensorflow (pick one ML framework)
 torchvision      # if using PyTorch
+numpy
+pandas
+matplotlib
 
 # Reinforcement Learning (optional for ML controllers)
 gym

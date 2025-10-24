@@ -10,8 +10,8 @@ Demonstration of Python List Data Type and Its Properties
 ✔ Ordered → maintain insertion order.
 ✔ Allow Duplicates → [1, 1, 2] is valid.
 ✔ Indexable & Sliceable.
-✔ Common Methods:
-   append(), insert(), extend(), remove(), pop(), sort(), reverse(), count(), index()
+✔ Common Methods: append(), insert(), extend(), remove(), pop(), sort(), reverse(), count(), index()
+✔ del(my_list)
 ✔ Can contain mixed data types.
 ✔ Support nesting and shallow/deep copies.
 """

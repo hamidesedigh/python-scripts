@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
+Created on Sat Jul 12 13:02:43 2025
+@Author: Hamideh
+
 Bulk SMS Sender
 -----------------------------------------------------------
 This program reads phone numbers from a text file and sends
 a New Year greeting SMS to each one using the Kavenegar API.
-
-Author: hamid
-Created on Sat Jul 12 13:02:43 2025
 """
 
 import requests

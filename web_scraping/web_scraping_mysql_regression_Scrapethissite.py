@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 """
+Created on Mon Sep 29 17:59:03 2025
+@author: Hamideh
+
+Program Description:
+-----------------------------------------------------------------
 Scrape all countries from Scrapethissite, store in MySQL,
 then build a simple ML model to predict country area based on population.
 """

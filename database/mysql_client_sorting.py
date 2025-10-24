@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 21 07:10:03 2025
-
-@author: hamid
+@author: hamideh
 
 Program Description
 ---------------------------

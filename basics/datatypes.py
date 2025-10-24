@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: Hamideh
 created: Wed Oct 6 15:23:20 2025
+@author: Hamideh
 
 Program Description:
 -------------------------
@@ -140,6 +140,7 @@ print()
 
 # ==============================================================
 # 8️⃣ Type Checking Summary
+# Types and Type Conversion: str(), int(), float(), bool()
 # ==============================================================
 
 print("Type of fruits:", type(fruits))

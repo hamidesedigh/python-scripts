@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep 24 17:39:57 2025
-
-@author: hamid
+@author: Hamideh
 
 Program Description:
 -----------------------------------------------------------------
@@ -16,7 +15,7 @@ import time
 
 driver = webdriver.Chrome()
 driver.get("https://divar.ir/s/tehran")
-time.sleep(15)  # wait for JS to load
+time.sleep(5)  # wait for JS to load
 
 
 

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Author: hamid
 Created on Thu Jul 10 08:58:47 2025
+@Author: Hamideh
 
 Bitcoin Price Alert with SMS Notification
 -----------------------------------------------------------

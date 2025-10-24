@@ -10,10 +10,10 @@ This repository serves both as:
 
 ## 📂 Contents
 
-### 🧑‍💻 basics/
+### 🧑‍💻 basics/-----------
 - `datatypes.py`
-- `string_sample.py`
-- `list_sample.py`
+- `string_utils.py`
+- `list_utils.py`
 - `dict_sample.py`
 - `tuple_set_boolean_sample.py`
 - `loops_sample.py`
@@ -21,40 +21,45 @@ This repository serves both as:
 - `def_euclidean.py`
 - `if_bmi.py`
 - `count_prime.py`
-- 
-- `oop_football_team.py`
-- `oop_school_health.py`
+- `oop_random_team_assignment.py`
+- `oop_compare_schools.py`
 - `euler_project_1.py`
 - `euler_project_2.py`
 - `simple_calculator.py`
-- `random_money_exchange.py`
-- `random_dice.py`
+- `random_money_exchange_simulation.py`
+- `dice_roll_simulation.py`
 - `pin_puzzle_solver.py`
+- `math_utils.py`
 
-### ⚡ advanced/
+### ⚡ advanced/-------
 - `decorators.py` 
 - `generators.py` 
 - `context_managers.py` 
 - `metaclasses.py` 
+- `test_decorators.py`
+- `test_generators.py`
+- `test_file_handling.py`
+- `lambda_map_filter.py`  
+- `f_strings.py`  
+- `itertools_examples.py`   
+- `error_handling.py`  
+- `datetime_examples.py`  
+- `pathlib_examples.py`  
+- `custom_package_example/`
 - 
 - `django_sample.md` 
 - `error_handling_HDB.py`
+- `favorite_genre.py`
+- `olympiad_finalists.py`
+- `gcd.py`
+- `translate_to_original.py`
+- `capitalized_words.py`
+- `fifa_group_b_standings.py`
 
 ### 🗄️ database/
 - `mysql_connection.py`  
 - `mysql_client_sorting.py` 
 - `mysql_client_email.py`  
- 
-
-### 🔀 concurrency/-
-- `threading_example.py`
-- `multiprocessing_example.py`
-- `asyncio_example.py`
-
-### 📦 modulator/-
-- `math_utils.py`
-- `string_utils.py`
-- `custom_package_example/`  
 
 ### 📁 file_handling/
 - `txt_handling.py`
@@ -76,39 +81,20 @@ This repository serves both as:
 - `web_scraping_mysql_Scrapethissite.py`
 - `web_scraping_mysql_regression_Scrapethissite.py`
 
-### 📈 data_science/
+### 📈 data_science/-----
 - `numpy_basics.py`
-- `pandas_examples.py`
+- `pandas_example.py`
 - `matplotlib_plot.py`
-- 
+- `ml_regression.py`
+- `ml_classification.py`
+- `ml_clustering.py`
+- `ml_recommender.py`
 - `readme.md`
 
-### ⚙️ control_systems/-
+### ⚙️ control_systems/-----
 - `state_space_models.py`
 - `fault_detection.py`
 - `system_identification.py`
-
-### 🧪 tests/-
-- `test_decorators.py`
-- `test_generators.py`
-- `test_file_handling.py`
-
-### 🧩 sample_codes/
-- `lambda_map_filter.py`  
-- `f_strings.py`  
-- `itertools_examples.py`   
-- `error_handling.py`  
-- `datetime_examples.py`  
-- `pathlib_examples.py`  
-- `json_handling.py`  
-- `http_requests.py` 
-- 
-- `favorite_genre.py`  
-- `format_finalist_list.py`
-- `gcd.py`
-- `translator.py`
-- `word_indexing.py`
-- `world_cup_B.py`
 
 ---
 
