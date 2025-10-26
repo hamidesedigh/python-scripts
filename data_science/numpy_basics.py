@@ -15,6 +15,8 @@ Main Topics:
 5️⃣ Array Functions & Inspection
 6️⃣ Copying, Sorting, and Manipulating Arrays
 7️⃣ I/O: Saving and Loading Arrays
+
+⚙️ This script was AI-assisted, generated and refined with the help of ChatGPT to accelerate learning and documentation.
 """
 
 import numpy as np

@@ -18,6 +18,8 @@ Covers:
 8. Data Alignment & Arithmetic Operations
 9. Summary Statistics
 10. Asking for Help
+
+⚙️ This script was AI-assisted, generated and refined with the help of ChatGPT to accelerate learning and documentation.
 """
 
 import pandas as pd
