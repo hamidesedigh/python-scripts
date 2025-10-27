@@ -110,5 +110,5 @@ This repository serves both as:
 ## 📌 Usage
 Clone this repository:
 ```bash
-git clone https://github.com/<your-username>/python-scripts.git
+git clone https://github.com/hamidesedigh/python-scripts.git
 cd python-scripts
