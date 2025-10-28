@@ -32,21 +32,10 @@ This repository serves both as:
 - `math_utils.py`
 
 ### ⚡ advanced/-------
-- `decorators.py` 
-- `generators.py` 
-- `context_managers.py` 
-- `metaclasses.py` 
-- `test_decorators.py`
-- `test_generators.py`
-- `test_file_handling.py`
-- `lambda_map_filter.py`  
-- `f_strings.py`  
-- `itertools_examples.py`   
-- `error_handling.py`  
-- `datetime_examples.py`  
-- `pathlib_examples.py`  
-- `custom_package_example/`
 - 
+- `skyline_max_height.py`
+- `pick_evens.py`
+- `variable_args_sum.py`
 - `django_sample.md` 
 - `error_handling_HDB.py`
 - `favorite_genre.py`
@@ -81,7 +70,7 @@ This repository serves both as:
 - `web_scraping_mysql_Scrapethissite.py`
 - `web_scraping_mysql_regression_Scrapethissite.py`
 
-### 📈 data_science/-----
+### 📈 data_science/
 - `numpy_basics.py`
 - `pandas_example.py`
 - `matplotlib_plot.py`

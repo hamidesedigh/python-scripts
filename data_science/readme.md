@@ -30,26 +30,19 @@ A comprehensive collection of machine learning concepts, code examples, and prac
 - Linear Regression
 - Polynomial Regression
 - Non-linear Regression
-- Ridge & Lasso Regression
 
 **Classification:**
 - K-Nearest Neighbors (KNN)
 - Decision Trees
 - Logistic Regression
 - Support Vector Machines (SVM)
-- Neural Networks
-- Random Forests
+
 
 #### Unsupervised Learning
 - K-Means Clustering
 - Hierarchical Clustering
 - Dimensionality Reduction
 
-#### Advanced Techniques
-- Semi-Supervised Learning
-- Reinforcement Learning
-- Ensemble Methods (Bagging, Boosting, Stacking)
-- Deep Learning (CNNs, RNNs, LSTMs, Transformers)
 
 ### 5. Model Evaluation & Visualization
 - Performance metrics (Accuracy, Precision, Recall, RMSE, R²)
