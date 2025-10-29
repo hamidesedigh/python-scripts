@@ -10,7 +10,7 @@ This repository serves both as:
 
 ## 📂 Contents
 
-### 🧑‍💻 basics/-----------
+### 🧑‍💻 basics/
 - `datatypes.py`
 - `string_utils.py`
 - `list_utils.py`
@@ -31,8 +31,10 @@ This repository serves both as:
 - `pin_puzzle_solver.py`
 - `math_utils.py`
 
-### ⚡ advanced/-------
-- 
+### ⚡ advanced/
+- my_library/
+- my_package/
+- library manager/
 - `skyline_max_height.py`
 - `pick_evens.py`
 - `variable_args_sum.py`
@@ -44,6 +46,23 @@ This repository serves both as:
 - `translate_to_original.py`
 - `capitalized_words.py`
 - `fifa_group_b_standings.py`
+- `guess.py`
+- `args_kwargs_sample.py`
+- `lambda_map_filter.py` 
+- `OOP_example.py`  
+- `python_party.py`
+- `demo_my_first_lib.py` 
+- `demo_my_first_package.py` 
+- 
+- `itertools_examples.py`   
+- `error_handling.py`
+- `decorators.py` 
+- `generators.py` 
+- `context_managers.py`
+- `test_decorators.py`
+- `test_generators.py`
+- `test_file_handling.py`
+ 
 
 ### 🗄️ database/
 - `mysql_connection.py`  
